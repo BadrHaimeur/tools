@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author: Badr Haimeur
+# Website: www.haimeur.com
 
 # Define the base directory
 BASE_DIR="$HOME"
